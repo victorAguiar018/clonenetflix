@@ -1,6 +1,7 @@
-import react, {useEffect, useState} from 'react'
-import MovieRow from './Components/MovieRow'
-import tmdb from './tmdb'
+import React, { useEffect, useState } from 'react'
+import  tmdb  from './tmdb'
+import MovieRow from './Components/MoviwRow'
+
 
 export default ()=>{
 
@@ -14,7 +15,7 @@ export default ()=>{
     }
 
     loadAll();
-  },[])
+  },[]);
 
   return(
     <div className='page'>  
@@ -24,5 +25,5 @@ export default ()=>{
         ))}
       </section>
     </div>
-  )
+  );
 }
