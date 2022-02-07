@@ -9,7 +9,7 @@
     padding-left: 30px;
 }
 .movieRow--list{
-    width: 99999px;
+    transition: all ease 0.5s;
 }
 .movieRow--item{
     display: inline-block;
@@ -49,4 +49,10 @@
 .movieRow:hover .movieRow--right{
     opacity: 1;
 }
-
+ 
+@media (max-width:760px){
+    .movieRow--lefth,
+    .movieRow--right{
+        opacity: 1;
+    }
+}

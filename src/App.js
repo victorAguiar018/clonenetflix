@@ -67,6 +67,11 @@ export default ()=>{
         Direitos de imagem para NetFlix <br/>
         Dados Pegos do site Themoviebd.org
       </footer>
+      {movieList.length <=0 && 
+        <div className='loading'>
+            <img src='https://c.tenor.com/DQyztbEmqnYAAAAC/netflix-loading.gif' alt='Carregando'/>
+        </div>
+      }
     </div>
   );
 }
