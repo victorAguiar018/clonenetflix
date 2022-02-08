@@ -1,70 +1,25 @@
-# Getting Started with Create React App
+<h1>Clone da Netflix</h1>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+> status: Projeto Front-end pronto, mas haverá alteraçoes e melhorias.
 
-## Available Scripts
+<div>
 
-In the project directory, you can run:
+  ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/68129983/152901105-f95b33d0-1015-4540-b302-3e6412105989.gif)
 
-### `npm start`
+</div>
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+ <h3>Projeto de um clone da netflix, feito para fins de estudo e aprendizado 🎓</h3>
+ 
+ 
+ > Um clone da Netflix feito em ReactJs, Esse clone recebe uma API do site <a target="_blank" href="https://www.themoviedb.org/?language=pt-BR">The Movie Database</a>
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
+ > Plataforma de estudo <a target="_blank" href="https://b7web.com.br">B7Web</a>
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+## Linguagens, Bibliotecas e Frameworks Utilizados
++ HTML5 <img style="width: 20px" src="https://img.icons8.com/external-tal-revivo-shadow-tal-revivo/24/000000/external-html-5-is-a-software-solution-stack-that-defines-the-properties-and-behaviors-of-web-page-logo-shadow-tal-revivo.png"/>
++ CSS3 <img style="width: 28px" src="https://img.icons8.com/color/48/000000/css3.png"/>
++ ReactJs <img  style="width: 20px" src="https://img.icons8.com/officel/16/000000/react.png"/>
++ Material-UI <img style="width: 20px" src="https://img.icons8.com/color/48/000000/material-ui.png"/>
++ Git <img style="width: 25px" src="https://img.icons8.com/color/48/000000/git.png"/>
