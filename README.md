@@ -2,6 +2,12 @@
 
 > status: Projeto Front-end pronto, mas haverá alteraçoes e melhorias.
 
+<div>
+
+  ![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/68129983/152901105-f95b33d0-1015-4540-b302-3e6412105989.gif)
+
+</div>
+
  <h3>Projeto de um clone da netflix, feito para fins de estudo e aprendizado 🎓</h3>
  
  
