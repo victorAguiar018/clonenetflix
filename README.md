@@ -1,4 +1,4 @@
-<h1>Projeto Clone da Netflix</h1>
+<h1>Clone da Netflix</h1>
 
 > status: Projeto Front-end pronto, mas haverá alteraçoes e melhorias.
 
